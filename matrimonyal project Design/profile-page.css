@@ -1,0 +1,123 @@
+.mainBannerSection {
+    background-image: url(./images/main-slider/2.jpg);
+    height: 280px;
+    width: 100%;
+  }
+  .main-content  {
+    padding: 100px 0px 0px 0px;
+
+  }
+  .image-wrap
+  {
+    height:150px;
+    width:150px;
+    border-radius:100px;
+    border: 10px solid #bfbfbf;
+  }
+  .text-content {
+    margin: 16px 15px 4px 0px;
+  }
+  .text-content h6{
+    color:#fff;
+    font-size:22px;
+  }
+  .status {
+    background: #f0ededed;
+    height: 24px;
+    padding: 1px 8px 8px 7px;
+    border-radius: 10px;
+    color: #000;
+  }
+  .text-star ul li {
+    display: inline-block;
+    color: #f9cc1e;
+  }
+  .dott {
+    height: 12px;
+    background: red;
+    width: 10px;
+    margin: 6px 10px 0px 10px;
+  }
+  /* second-card */
+  .side-text-one h6 ,  .side-text-two h6{
+    color:#fff;
+  }
+  .side-content{
+    padding:140px 0px 0px 0px;
+    float:right;
+  }
+  
+  .dimo {
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    margin-right:30px;
+
+  }
+  /* second-end */
+  /* second section */
+  .one-card img{
+    height:30px;
+    width:30px;
+    border-radius: 30px;
+  }
+  .one-card{
+    background-image:url(./images/background/9.jpg);
+   
+    width:100%;
+  }
+  .profile-image {
+    text-align: center;
+  }
+  .profile-image img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+  }
+  .second-card ,.third-card{
+    box-shadow: 0 0 25px rgba(0,0,0,.15) !important;
+    border-radius: 0px;
+  }
+  .border-bottom-line {
+    border-bottom: 1px solid #800925;
+  }
+  .border-line {
+    border-bottom: 3px solid #800925;
+    margin: 0px 150px;
+    margin-bottom: 20px;
+  }
+  /* second end */
+  .info-mid li {
+    display: inline-block;
+    margin-right:65px;
+  }
+  .info-mid {
+    padding: 20px 20px;
+  }
+  .mid-sectiuon {
+    background: #d79c80
+  }
+  .information-card {
+    box-shadow: 0 0 25px rgba(0,0,0,.15) !important;
+  }
+  .info-profile-one  > ul >li{
+    margin-bottom:10px;
+  }
+  .user-profile i {
+    background: #dbd0d0;
+    padding: 10px 15px;
+  }
+  /* third card */
+  .third-image img {
+    height: 50px;
+    width: 50px;
+    margin: 0px 20px;
+    border-radius: 50px;
+  }
+  .third-content span i {
+    color: #890025;
+  }
+  /* third-card-end */

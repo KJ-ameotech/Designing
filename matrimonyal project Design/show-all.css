@@ -1,0 +1,10 @@
+.show-all-cards {
+    box-shadow: 0 0 25px rgba(0,0,0,.15) !important;
+    border-radius: 0px;
+  }
+  .show-card-img img {
+    height: 50px;
+    width: 50px;
+    margin: 0px 20px;
+    border-radius: 50px;
+  }

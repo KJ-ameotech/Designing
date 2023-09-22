@@ -1,0 +1,57 @@
+
+  .media-icons i{
+    color: #800925;
+    font-size: 18px;
+    background-color: rgb(232, 220, 218);
+    padding: 10px 10px;
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .show-all-cards li{
+    display:inline-block;
+  }
+  .media-bg-image{
+    background-image:url(./images/background/media-1.png),linear-gradient(to right,#9d7985,#890025);
+    height:50px;
+    width:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    align-items: center;
+  }
+  .media-content-img {
+    width: calc(32% - 7px);
+    margin-right: 13px;
+    margin-bottom: 12.5px;
+    height:180px;
+  }
+  .media-content-images li {
+    display: inline;
+  }
+  .no-items {
+    box-shadow: 0 0 25px rgba(0,0,0,.15) !important;
+    border-radius: 0px;
+  }
+  .border-sideline {
+    border-left: 5px solid #800925;
+  }
+  .row.media-bg-image-video{
+    background-image:url(./images/background/media-1.png),linear-gradient(to right,#d2564d,#ae1313);
+    height:50px;
+    width:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    align-items: center;
+  }
+  .media-bg-image-file {
+    background-image: url(./images/background/media-1.png),linear-gradient(to right,#d74173,#480d1d);
+    height: 50px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+  }
